@@ -21,6 +21,7 @@ Practicar el flujo de trabajo completo con Git, GitHub y Visual Studio Code:
 data-project/
 ├── .gitignore
 ├── README.md
+├── estadisticas.py
 └── suma.py
 ```
 
@@ -28,6 +29,7 @@ data-project/
 
 ```bash
 python3 suma.py
+python3 estadisticas.py
 ```
 
 ## Notas
