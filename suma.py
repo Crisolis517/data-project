@@ -1,5 +1,5 @@
-a = 2
-b = 5
+a = 10
+b = 25
 
 def sumar(a, b):
     return a + b
