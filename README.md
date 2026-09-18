@@ -6,6 +6,7 @@ a Big Data para Ciencia de Datos.
 
 - **Institución:** Escuela Superior Politécnica de Chimborazo (ESPOCH)
 - **Programa:** Maestría en Estadística con mención en Ciencia de Datos e Inteligencia Artificial
+- **Estudiante:** Cristian Solis Aguirre
 - **Docente:** Miguel Alfonso Flores Sánchez
 - **Cohorte 2 · Paralelo 1 · 2026**
 
